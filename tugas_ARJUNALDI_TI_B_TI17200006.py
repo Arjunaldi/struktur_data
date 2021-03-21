@@ -5,6 +5,8 @@ for i in range(len(hari)):
         print("     hari masuk kuliah")
     elif i == 6:
         print("     Hari libur kuliah")
+        print("                                                  _________")
+        print("                                                  ARJUNALDI")
         
         
         
